@@ -3,9 +3,9 @@
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
             <td height="119" colspan="2" bgcolor="#006600">
-                <h1><center><font color="#FFFFFF">อพาร์ตเมนต์</font></center></h1>
+                <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
-            </td>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            </td>
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
